@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+#HYU {
+    width: 100%;
+    height: 800px;
+    background-color:blanchedalmond;
+}
+
+#HGF {
+    width: 100%;
+    height: 800px;
+    background-color:azure ;
+}
+img{
+    transition: transform .2s;
+    border:10px solid:#AAAAAA
+}
+
+img:hover{
+    transform: (0.9);
+}
